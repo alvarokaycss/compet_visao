@@ -1,0 +1,40 @@
+# Ambientes Virtuais
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Pacotes e Distribuição
+build/
+dist/
+*.egg-info/
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visão Computacional: Mídias de teste, gravações e modelos pesados
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.task
+*.tflite
+*.onnx
+captures/
+recordings/
